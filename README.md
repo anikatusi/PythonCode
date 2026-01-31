@@ -1,4 +1,8 @@
 # PythonCode
+3 types
+int
+float
+boolean= Tru/False
 
 Basic 
 How to print python code
