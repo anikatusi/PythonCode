@@ -15,3 +15,15 @@ status= "New Member"
 
 print(Name,age,status)
 
+==================
+
+Store a data= variable[ age=20]
+
+Name= "john"
+age=20
+Patient_type= "new"
+
+print (Name, age, Patient_type)
+========
+
+Boolen = True and False' Python is case sensitive. 
