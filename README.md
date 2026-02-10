@@ -37,3 +37,19 @@ birth_year= input("Enter your birth year: ")
 age= 2026- int(birth_year)
 
 print(age)
+==============
+Python Operator
+x=3>2
+print(x)
+
+x=3<2
+print(x)
+
+x=3>=2
+print(x)
+
+x=3<=3
+print(x)
+
+x=3!=2
+print(x)
