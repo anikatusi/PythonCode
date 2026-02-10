@@ -1,0 +1,20 @@
+course = 'Python for Beginners'
+
+0123456
+first index 
+012345
+Python
+
+print(course.find('t'))
+
+Output = 2 for t bevause of the index number;
+
+Function=
+course= 'Python for Beginners'
+
+
+print(course.upper())
+print(course.lower())
+
+print(course.find('t'))
+print(course.replace('for', '4'))
