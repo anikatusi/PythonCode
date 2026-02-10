@@ -65,5 +65,16 @@ elif temperature>20:
 
 elif temperature>20:
     print("It's a nice day")
+    ===================
+    weight = 170
+unit = "L"
+
+if unit == "L":
+    converted = weight * 0.45
+    print("Weight in Kg:", converted)
+else:
+    converted = weight / 0.45
+    print("Weight in Pounds:", converted)
+    
 
 
